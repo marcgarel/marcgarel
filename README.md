@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on diversity using different tools: oceanography, bioinformatics...
 - 🌱 I’m fluent in R programming language
-- 🔧 I'm code tools for oceanography data set 
+- 🔧 I'm code tools for oceanography ansd 16S metabarcoding data set 
 <!--
 **marcgarel/marcgarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
